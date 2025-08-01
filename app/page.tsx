@@ -331,12 +331,12 @@ export default function Home() {
                       <div>
                         <h4 className="font-medium">Technical Skills</h4>
                         <p className="text-sm text-muted-foreground mt-1">
-                          <span className="bold">Languages & Frameworks:</span>{" "}
+                          <span className="font-bold text-slate-300">Languages & Frameworks:</span>{" "}
                           PHP, Laravel, JavaScript, TypeScript, Angular,
                           Next.js, HTML, CSS
                         </p>
                         <p className="text-sm text-muted-foreground mt-1">
-                          <span className="bold">Databases & Tools:</span>{" "}
+                          <span className="font-bold text-slate-300">Databases & Tools:</span>{" "}
                           MySQL, PostgreSQL, REST APIs, Git, Composer, npm
                         </p>
                       </div>
@@ -364,8 +364,8 @@ export default function Home() {
                             Specialized Technician Diploma in Software
                             Development | 2018 - 2020
                           </li>
-                          <li className="text-xs text-muted-foreground">
-                            Baccalaureate in Physical Sciences | 2017-2018
+                          <li className="text-sm text-muted-foreground">
+                            Baccalaureate in Physical Sciences | 2018
                           </li>
                         </ul>
                       </div>
