@@ -331,12 +331,16 @@ export default function Home() {
                       <div>
                         <h4 className="font-medium">Technical Skills</h4>
                         <p className="text-sm text-muted-foreground mt-1">
-                          <span className="font-bold text-slate-300">Languages & Frameworks:</span>{" "}
+                          <span className="font-bold text-slate-300">
+                            Languages & Frameworks:
+                          </span>{" "}
                           PHP, Laravel, JavaScript, TypeScript, Angular,
                           Next.js, HTML, CSS
                         </p>
                         <p className="text-sm text-muted-foreground mt-1">
-                          <span className="font-bold text-slate-300">Databases & Tools:</span>{" "}
+                          <span className="font-bold text-slate-300">
+                            Databases & Tools:
+                          </span>{" "}
                           MySQL, PostgreSQL, REST APIs, Git, Composer, npm
                         </p>
                       </div>
@@ -422,29 +426,29 @@ export default function Home() {
                 </Button>
               </div>
 
-              {/* <div className="mt-12 grid md:grid-cols-3 gap-6">
+              <div className="mt-12 grid md:grid-cols-3 gap-6">
                 <div className="p-6 rounded-lg bg-card border border-border">
-                  <h3 className="font-semibold mb-2">UI Design</h3>
+                  <h3 className="font-semibold mb-2">Architecture</h3>
                   <p className="text-sm text-muted-foreground">
-                    Creating visually appealing interfaces with a focus on
-                    aesthetics and brand consistency.
+                    Designing clean, scalable backend structures with
+                    maintainable APIs and smart data flow.
                   </p>
                 </div>
                 <div className="p-6 rounded-lg bg-card border border-border">
-                  <h3 className="font-semibold mb-2">UX Research</h3>
+                  <h3 className="font-semibold mb-2">Interface</h3>
                   <p className="text-sm text-muted-foreground">
-                    Conducting user research to understand needs and behaviors
-                    for informed design decisions.
+                    Crafting responsive, accessible, and polished frontends that
+                    deliver clear and engaging user experiences.
                   </p>
                 </div>
                 <div className="p-6 rounded-lg bg-card border border-border">
-                  <h3 className="font-semibold mb-2">Interaction Design</h3>
+                  <h3 className="font-semibold mb-2">Growth</h3>
                   <p className="text-sm text-muted-foreground">
-                    Designing intuitive interactions that enhance the overall
-                    user experience.
+                    Constantly refining my skills, exploring new tools, and
+                    pushing for better outcomes in every project.
                   </p>
                 </div>
-              </div> */}
+              </div>
             </div>
           </div>
         </section>
@@ -466,7 +470,7 @@ export default function Home() {
                     <div className="flex items-center">
                       <Mail className="h-5 w-5 mr-3 text-primary" />
                       <a
-                        href="mailto:shuaibkarim302@gmail.com"
+                        href="mailto:anass.elassri.04@gmail.com"
                         className="text-muted-foreground hover:text-primary"
                       >
                         anass.elassri.04@gmail.com
@@ -475,7 +479,7 @@ export default function Home() {
                     <div className="flex items-center">
                       <Phone className="h-5 w-5 mr-3 text-primary" />
                       <a
-                        href="tel:+923167469390"
+                        href="tel:+212698800277"
                         className="text-muted-foreground hover:text-primary"
                       >
                         +212 698 800 277
@@ -495,7 +499,7 @@ export default function Home() {
                   <div className="flex space-x-4">
                     <Button asChild variant="outline" size="icon">
                       <a
-                        href="https://www.linkedin.com/in/shuaib-karim-551841232/"
+                        href="https://www.linkedin.com/in/anass-el-assri/"
                         target="_blank"
                         rel="noopener noreferrer"
                         aria-label="LinkedIn Profile"
