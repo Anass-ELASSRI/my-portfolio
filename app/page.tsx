@@ -415,7 +415,7 @@ export default function Home() {
                 </p>
                 <Button asChild size="lg">
                   <a
-                    href="https://tlabli-front.vercel.app"
+                    href="https://tlabli.vercel.app"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center"
